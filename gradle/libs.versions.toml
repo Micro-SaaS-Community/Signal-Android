@@ -172,7 +172,7 @@ android-tooltips = "com.tomergoldst.android:tooltips:1.0.6"
 stream = "com.annimon:stream:1.1.8"
 lottie = "com.airbnb.android:lottie:6.4.0"
 lottie-compose = "com.airbnb.android:lottie-compose:6.4.0"
-dnsjava = "dnsjava:dnsjava:2.1.9"
+dnsjava = "dnsjava:dnsjava:3.6.3"
 nanohttpd-webserver = { module = "org.nanohttpd:nanohttpd-webserver", version.ref = "nanohttpd" }
 nanohttpd-websocket = { module = "org.nanohttpd:nanohttpd-websocket", version.ref = "nanohttpd" }
 kotlinx-collections-immutable = "org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.5"
